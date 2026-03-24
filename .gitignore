@@ -1,0 +1,9 @@
+*.db
+*.vsidx
+myConsoleProject.cs/.vs/myConsoleProject.cs/v17/.suo
+*.json
+*.exe
+*.config
+*.pdb
+*.cache
+*.txt
