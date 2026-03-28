@@ -7,3 +7,24 @@ myConsoleProject.cs/.vs/myConsoleProject.cs/v17/.suo
 *.pdb
 *.cache
 *.txt
+*.bin
+*.dll
+*.BuildWithSkipAnalyzers
+*.db-shm
+*.db-wal
+ConsoleApp1/.vs/ConsoleApp1/v17/.suo
+ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GlobalUsings.g.cs
+console app challenge/console app challenge/obj/Debug/net8.0/console app challenge.GlobalUsings.g.cs
+console app challenge/console app challenge/obj/console app challenge.csproj.nuget.g.props
+console app challenge/console app challenge/obj/console app challenge.csproj.nuget.g.targets
+console app challenge/console app challenge/obj/Debug/net8.0/console app challenge.AssemblyInfo.cs
+ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets
+ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props
+console app challenge/.vs/console app challenge/DesignTimeBuild/.dtbcache.v2
+console app challenge/.vs/console app challenge/v17/.futdcache.v2
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dbcache
